@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+table {
+    margin: auto;
+    border:1px solid yellowgreen;
+}
+
+table ,tr,td{
+    border:1px solid rgb(4, 5, 2);
+}
+
+.name
+{
+    background-color: violet;
+}
+
+.week{
+    background-color: turquoise;
+}
+
+.time{
+    background-color: tomato;
+}
+.color{
+    background-color: yellow;
+}
